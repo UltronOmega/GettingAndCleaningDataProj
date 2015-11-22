@@ -10,7 +10,7 @@
     3. mean_data: data frame that rappresents result for point 5
 
 ## Transformations
-    1. merge files: x_train.txt, y_train.txt, x_test.txt, y_test.txt, subject_train.txt
+    1. merge files: x_train.txt, y_train.txt, x_test.txt, y_test.txt, subject_train.txt 
     and subject_test.txt into one dataset named merged_data.
     2. creating logical vector to select columns with mean() and std()
     3. introduces factor for activity column
